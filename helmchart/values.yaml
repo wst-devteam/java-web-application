@@ -7,7 +7,7 @@ replicaCount: 1
 containerPort: 8080
 
 image:
-  repository: dockerhandson/java-web-app
+  repository: oxsenit1/java-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
