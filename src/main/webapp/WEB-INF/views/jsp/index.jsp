@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Wizdom Technologies, Ameerpet, Hyderabad, Inida ,Telangana.</h2>
-			<h3>Contact @ +91-9390959584,+91-8309540541</h3>
+			<h3>Contact @ +91-8985043268,+91-8309540541</h3>
 		</div>	
 	</div>
 
